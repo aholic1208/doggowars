@@ -1,2 +1,2 @@
-# doggowars
+# DoggoWars
 DoggoWars plugin for Minecraft
